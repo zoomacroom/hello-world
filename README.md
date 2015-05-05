@@ -1,2 +1,3 @@
 # hello-world
-i do what i'm told
+this is the thing the thing said to do
+and if you can't trust the thing then what can you trust
